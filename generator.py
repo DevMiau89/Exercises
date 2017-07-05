@@ -9,5 +9,5 @@ print foo.next()
 
 # sentence = 'baby let me iterate ya'
 # foo = (word for word in sentence.split(" "))
-#
+
 # print foo.next()
